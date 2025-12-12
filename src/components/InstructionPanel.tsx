@@ -26,9 +26,9 @@ export default function InstructionPanel({ isOpen, onClose }: InstructionPanelPr
       </ol>
       <p className="mt-4 text-sm text-gray-500 dark:text-gray-400">
         {t('instructions.moreInfo')}{' '}
-          <a 
-            className='text-blue-500' 
-            href="https://www.osmu.wiki"
+          <a
+            className='text-blue-500'
+            href="https://yggdrill.com/contact-us/"
             target="_blank"
             rel="noopener noreferrer"
           >
