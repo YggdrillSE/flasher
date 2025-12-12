@@ -11,10 +11,10 @@ export default function Header({ onOpenPanel }: HeaderProps) {
   const { t } = useTranslation();
 
   return (
-    <header className="px-4 lg:px-6 h-14 flex items-center justify-between">
+    <header className="px-4 lg:px-6 h-24 flex items-center justify-between">
       {/* Left section */}
       <Link className="flex items-center justify-center" href="#">
-        <img src="/logo.png" alt="Yggdrill" className="h-20" />
+        <img src="/logo.png" alt="Yggdrill" className="h-40" />
       </Link>
 
 
