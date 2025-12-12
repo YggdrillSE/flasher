@@ -14,8 +14,7 @@ export default function Header({ onOpenPanel }: HeaderProps) {
     <header className="px-4 lg:px-6 h-14 flex items-center justify-between">
       {/* Left section */}
       <Link className="flex items-center justify-center" href="#">
-        <img src="/logo.png" alt="Yggdrill" className="h-8 mr-2" />
-        <span className="font-bold">Bitaxe Web Flasher</span>
+        <img src="/logo.png" alt="Yggdrill" className="h-12" />
       </Link>
 
 
