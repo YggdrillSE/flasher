@@ -5,7 +5,7 @@ export default function Features() {
   const { t } = useTranslation();
 
   return (
-    <section id="features" className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800">
+    <section id="features" className="w-full py-12 md:py-24 lg:py-32 bg-secondary">
       <div className="container px-4 md:px-6">
         <h2 className="text-2xl font-bold text-center mb-8">{t('features.title')}</h2>
         <div className="grid gap-8 md:grid-cols-3">
