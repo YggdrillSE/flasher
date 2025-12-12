@@ -12,10 +12,8 @@ export default function Header({ onOpenPanel }: HeaderProps) {
 
   return (
     <header className="px-4 lg:px-6 h-24 flex items-center justify-between">
-      {/* Left section */}
-      <Link className="flex items-center justify-center" href="#">
-        <img src="/logo.png" alt="Yggdrill" className="h-40" />
-      </Link>
+      {/* Left section - empty for spacing */}
+      <div></div>
 
 
       {/* Right section */}
