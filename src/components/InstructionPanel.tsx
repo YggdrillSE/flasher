@@ -28,7 +28,7 @@ export default function InstructionPanel({ isOpen, onClose }: InstructionPanelPr
         {t('instructions.moreInfo')}{' '}
           <a
             className='text-blue-500'
-            href="https://yggdrill.com/contact-us/"
+            href="https://yggdrill.com/guides/easily-perform-a-bitaxe-firmware-update/"
             target="_blank"
             rel="noopener noreferrer"
           >
