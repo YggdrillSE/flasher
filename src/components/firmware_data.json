@@ -61,6 +61,15 @@
             ]
         },
         {
+            "name": "Gamma Duo",
+            "repository": "https://github.com/bitaxeorg/ESP-Miner",
+            "boards": [
+                {
+                    "name": "650"
+                }
+            ]
+        },
+        {
             "name": "UltraHex",
             "repository": "https://github.com/bitaxeorg/ESP-Miner",
             "boards": [
