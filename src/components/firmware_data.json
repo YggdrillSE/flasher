@@ -131,6 +131,21 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Bitforge Nano",
+            "repository": "",
+            "boards": [
+                {
+                    "name": "800",
+                    "supported_firmware": [
+                        {
+                            "version": "1.1",
+                            "path": "firmware/esp-miner-factory-Nano-v1.1.bin"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
