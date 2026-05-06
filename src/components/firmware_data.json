@@ -126,7 +126,7 @@
                     "supported_firmware": [
                         {
                             "version": "2.0.2",
-                            "path": "firmware/nerdnos.bin"
+                            "path": "firmware/merged-flash.bin"
                         }
                     ]
                 }
